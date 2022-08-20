@@ -1,16 +1,7 @@
 # JK Organic Farm website
 
-This is the live link of [JK Organic Farm](https://gallant-davinci-c16e60.netlify.app/).
+This website is Created by Jadhav Karthik
 
-## service
+Any attempt to copy this website in any form will not be accepted.
 
-we provide 100% fresh products.
-
-### Store
-
-We preserve our products without preservetive .
-
-### farming
-
-we crops our products in our farm. We never ever use fertilize.
 
